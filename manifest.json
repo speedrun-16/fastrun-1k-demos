@@ -1,5 +1,53 @@
 [
   {
+    "demFileHash": "d5977d53ec20e888171f75050303c3fa1f8f454c6ce3511fd342ef259e4c94dd",
+    "uid": "AJEMVZWYJ",
+    "map": "speedrun_jeans",
+    "category": 10,
+    "time": 11906,
+    "playerSteamId": "STEAM_0:0:1181305",
+    "timestamp": "2025-09-15T10:11:57.000Z",
+    "zipFilename": "00011906_STEAM_0_0_1181305_20250915-101157.zip",
+    "path": "speedrun_jeans/00011906_STEAM_0_0_1181305_20250915-101157.zip",
+    "archivedAt": "2025-09-16T03:00:15.115Z"
+  },
+  {
+    "demFileHash": "fb20d3e35425dfb53e40991c4296139531c9cb050537efd9757f8de32418bfc3",
+    "uid": "QJ4FYFNS0",
+    "map": "speedrun_replay_return",
+    "category": 10,
+    "time": 10028,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-09-15T12:19:35.000Z",
+    "zipFilename": "00010028_STEAM_0_1_29970948_20250915-121935.zip",
+    "path": "speedrun_replay_return/00010028_STEAM_0_1_29970948_20250915-121935.zip",
+    "archivedAt": "2025-09-16T03:00:15.115Z"
+  },
+  {
+    "demFileHash": "8f938e70c065f3577145ca5caad73d389d63e32c3c7cae5012bd0381f7d595b3",
+    "uid": "HWHTUFFTA",
+    "map": "speedrun_jeans",
+    "category": 10,
+    "time": 10856,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-09-15T10:08:53.000Z",
+    "zipFilename": "00010856_STEAM_0_1_29970948_20250915-100853.zip",
+    "path": "speedrun_jeans/00010856_STEAM_0_1_29970948_20250915-100853.zip",
+    "archivedAt": "2025-09-16T03:00:15.115Z"
+  },
+  {
+    "demFileHash": "def6f8ad64757ba59db126e1e1a67aacc8dbbc6dfe8265b1689a2443a38b0207",
+    "uid": "VFF0DZFDL",
+    "map": "speedrun_herb",
+    "category": 10,
+    "time": 13598,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-09-15T08:48:28.000Z",
+    "zipFilename": "00013598_STEAM_0_1_771348382_20250915-084828.zip",
+    "path": "speedrun_herb/00013598_STEAM_0_1_771348382_20250915-084828.zip",
+    "archivedAt": "2025-09-16T03:00:15.115Z"
+  },
+  {
     "demFileHash": "a35ce25af7b55db984fc05c326867a1902f82463dd59dbdf0f30a61f20727d50",
     "uid": "IFO8336ZM",
     "map": "speedrun_evidens",
