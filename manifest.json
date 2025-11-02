@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "0a72e3e1ebd12287a5961889243f3d326ba5b0fc27c3975203c0bbfd8e010bda",
+    "uid": "T4QLA1ATO",
+    "map": "speedrun_triskelion_ruins_beta2",
+    "category": 10,
+    "time": 9891,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-11-02T02:07:10.000Z",
+    "zipFilename": "00009891_STEAM_0_1_29970948_20251102-020710.zip",
+    "path": "speedrun_triskelion_ruins_beta2/00009891_STEAM_0_1_29970948_20251102-020710.zip",
+    "archivedAt": "2025-11-02T06:00:02.614Z"
+  },
+  {
     "demFileHash": "a8f42649a6217360cfda8290c3ee0deac3d98e6b0571b890b9e552d61cc837fc",
     "uid": "9HPRD49Q2",
     "map": "speedrun_nuke",
