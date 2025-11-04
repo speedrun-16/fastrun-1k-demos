@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "b22c844a821f28dde3db8876ed0e53cb42d473d791cd296a195a92cbaf14629b",
+    "uid": "SGUU0P4WB",
+    "map": "deathrun_magic",
+    "category": 10,
+    "time": 15259,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-11-04T00:15:02.000Z",
+    "zipFilename": "00015259_STEAM_0_1_29970948_20251104-001502.zip",
+    "path": "deathrun_magic/00015259_STEAM_0_1_29970948_20251104-001502.zip",
+    "archivedAt": "2025-11-04T06:00:00.379Z"
+  },
+  {
     "demFileHash": "0a72e3e1ebd12287a5961889243f3d326ba5b0fc27c3975203c0bbfd8e010bda",
     "uid": "T4QLA1ATO",
     "map": "speedrun_triskelion_ruins_beta2",
