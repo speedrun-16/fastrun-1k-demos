@@ -9,6 +9,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [de_dust2](./de_dust2) | 1 | 2025-10-20 |
 | [deathrun_chemical](./deathrun_chemical) | 2 | 2025-10-03 |
 | [deathrun_magic](./deathrun_magic) | 1 | 2025-11-04 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 1 | 2025-11-11 |
 | [speedrun_30min](./speedrun_30min) | 1 | 2025-10-06 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 4 | 2025-09-16 |
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 1 | 2025-09-22 |
@@ -28,5 +29,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **18**
-- Total Demos: **24**
+- Total Maps: **19**
+- Total Demos: **25**

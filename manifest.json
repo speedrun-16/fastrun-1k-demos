@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "22f67e3116a37bbeba0cd75d98b7fd46d8d610297674ee2dc6c18dce6a406b50",
+    "uid": "BAQ4JWTA5",
+    "map": "speedrun_1000fps_battle",
+    "category": 10,
+    "time": 7004,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2025-11-11T00:07:20.000Z",
+    "zipFilename": "00007004_STEAM_0_1_447056338_20251111-000720.zip",
+    "path": "speedrun_1000fps_battle/00007004_STEAM_0_1_447056338_20251111-000720.zip",
+    "archivedAt": "2025-11-11T06:00:00.680Z"
+  },
+  {
     "demFileHash": "b22c844a821f28dde3db8876ed0e53cb42d473d791cd296a195a92cbaf14629b",
     "uid": "SGUU0P4WB",
     "map": "deathrun_magic",
