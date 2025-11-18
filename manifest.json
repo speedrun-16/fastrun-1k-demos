@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "7ff94bb6ed41e901cac8e52da24437b17514a1d52d25a1aed5906f9ee394badf",
+    "uid": "CVW8RCHHJ",
+    "map": "speedrun_katozlandia",
+    "category": 10,
+    "time": 3151,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-11-17T23:56:27.000Z",
+    "zipFilename": "00003151_STEAM_0_1_29970948_20251117-235627.zip",
+    "path": "speedrun_katozlandia/00003151_STEAM_0_1_29970948_20251117-235627.zip",
+    "archivedAt": "2025-11-18T00:00:11.664Z"
+  },
+  {
     "demFileHash": "c564c13d9af4e09329fbebeaa9f2dd8af1e90aa27ecb1d356a296c3c5b526f0d",
     "uid": "V1HB6FHLA",
     "map": "speedrun_chemical",
