@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "abd91e0a9da14e3809ef9163ed1dcf94cb1bc9167223a8cb4b1d3ea8dea743c0",
+    "uid": "3TD1APBDO",
+    "map": "speedrun_grasz_final",
+    "category": 10,
+    "time": 11981,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-11-21T14:10:13.000Z",
+    "zipFilename": "00011981_STEAM_0_1_796767048_20251121-141013.zip",
+    "path": "speedrun_grasz_final/00011981_STEAM_0_1_796767048_20251121-141013.zip",
+    "archivedAt": "2025-11-21T18:00:20.591Z"
+  },
+  {
     "demFileHash": "7ff94bb6ed41e901cac8e52da24437b17514a1d52d25a1aed5906f9ee394badf",
     "uid": "CVW8RCHHJ",
     "map": "speedrun_katozlandia",
