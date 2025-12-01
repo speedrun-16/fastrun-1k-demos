@@ -13,6 +13,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_30min](./speedrun_30min) | 1 | 2025-10-06 |
 | [speedrun_bieber](./speedrun_bieber) | 1 | 2025-11-11 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 4 | 2025-09-16 |
+| [speedrun_calisto](./speedrun_calisto) | 1 | 2025-12-01 |
 | [speedrun_chemical](./speedrun_chemical) | 2 | 2025-11-13 |
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 1 | 2025-09-22 |
 | [speedrun_evidens](./speedrun_evidens) | 1 | 2025-09-15 |
@@ -34,5 +35,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **24**
-- Total Demos: **31**
+- Total Maps: **25**
+- Total Demos: **32**
