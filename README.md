@@ -27,6 +27,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_poland_copy](./speedrun_poland_copy) | 1 | 2025-12-11 |
 | [speedrun_r3x_final](./speedrun_r3x_final) | 1 | 2025-10-26 |
 | [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-11 |
+| [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
 | [speedrun_replay_return](./speedrun_replay_return) | 1 | 2025-09-15 |
 | [speedrun_runners](./speedrun_runners) | 1 | 2025-12-16 |
 | [speedrun_solitude](./speedrun_solitude) | 1 | 2025-10-22 |
@@ -39,5 +40,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **29**
-- Total Demos: **38**
+- Total Maps: **30**
+- Total Demos: **39**
