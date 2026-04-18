@@ -7,7 +7,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
 | [de_dust2](./de_dust2) | 1 | 2025-10-20 |
-| [deathrun_chemical](./deathrun_chemical) | 2 | 2025-10-03 |
+| [deathrun_chemical](./deathrun_chemical) | 3 | 2026-04-17 |
 | [deathrun_magic](./deathrun_magic) | 1 | 2025-11-04 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 2 | 2025-12-11 |
 | [speedrun_30min](./speedrun_30min) | 1 | 2025-10-06 |
@@ -43,4 +43,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **32**
-- Total Demos: **41**
+- Total Demos: **42**
