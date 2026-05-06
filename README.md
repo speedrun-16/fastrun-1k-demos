@@ -37,10 +37,10 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 2 | 2025-09-17 |
 | [speedrun_tr](./speedrun_tr) | 1 | 2025-10-27 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 1 | 2025-11-02 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 1 | 2025-09-20 |
+| [speedrun_w00dfun](./speedrun_w00dfun) | 2 | 2026-05-05 |
 
 ---
 
 ### Statistics
 - Total Maps: **32**
-- Total Demos: **42**
+- Total Demos: **43**
