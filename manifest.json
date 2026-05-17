@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "3dfeb78fea15edb2cdc25364424975ac1c7d860bcd50f7cc77f9e7c357989101",
+    "uid": "QAP2NCRK5",
+    "map": "speedrun_jeans_short",
+    "category": 10,
+    "time": 6859,
+    "playerSteamId": "STEAM_0:1:87291981",
+    "timestamp": "2026-05-17T14:34:24.000Z",
+    "zipFilename": "00006859_STEAM_0_1_87291981_20260517-143424.zip",
+    "path": "speedrun_jeans_short/00006859_STEAM_0_1_87291981_20260517-143424.zip",
+    "archivedAt": "2026-05-17T18:00:23.843Z"
+  },
+  {
     "demFileHash": "59b573b7e1220ef1f28e0f5904979a61dd0e3523263035ab13457f7ee178a379",
     "uid": "X6LQO660P",
     "map": "speedrun_30min",
