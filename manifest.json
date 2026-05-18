@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "8431b198d08793159ed8d333e23ef5959745605c70af954520dfa0a87cdfcaed",
+    "uid": "V2KWWIMTV",
+    "map": "speedrun_hearts",
+    "category": 10,
+    "time": 9922,
+    "playerSteamId": "STEAM_0:1:87291981",
+    "timestamp": "2026-05-18T15:37:32.000Z",
+    "zipFilename": "00009922_STEAM_0_1_87291981_20260518-153732.zip",
+    "path": "speedrun_hearts/00009922_STEAM_0_1_87291981_20260518-153732.zip",
+    "archivedAt": "2026-05-18T18:00:00.710Z"
+  },
+  {
     "demFileHash": "3dfeb78fea15edb2cdc25364424975ac1c7d860bcd50f7cc77f9e7c357989101",
     "uid": "QAP2NCRK5",
     "map": "speedrun_jeans_short",
