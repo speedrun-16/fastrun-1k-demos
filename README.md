@@ -8,6 +8,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | :--- | :---- | :--- |
 | [de_dust2](./de_dust2) | 1 | 2025-10-20 |
 | [deathrun_chemical](./deathrun_chemical) | 3 | 2026-04-17 |
+| [deathrun_linea](./deathrun_linea) | 1 | 2026-06-04 |
 | [deathrun_magic](./deathrun_magic) | 1 | 2025-11-04 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 3 | 2026-06-01 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2026-05-16 |
@@ -26,7 +27,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_jeans_short](./speedrun_jeans_short) | 1 | 2026-05-17 |
 | [speedrun_katozlandia](./speedrun_katozlandia) | 1 | 2025-11-17 |
 | [speedrun_miqu](./speedrun_miqu) | 1 | 2026-05-15 |
-| [speedrun_noob](./speedrun_noob) | 1 | 2026-03-30 |
+| [speedrun_noob](./speedrun_noob) | 2 | 2026-06-04 |
 | [speedrun_nuke](./speedrun_nuke) | 1 | 2025-10-30 |
 | [speedrun_poland](./speedrun_poland) | 1 | 2025-10-19 |
 | [speedrun_poland_copy](./speedrun_poland_copy) | 1 | 2025-12-11 |
@@ -39,12 +40,12 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_solitude](./speedrun_solitude) | 1 | 2025-10-22 |
 | [speedrun_sudpi](./speedrun_sudpi) | 1 | 2025-12-04 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 2 | 2025-09-17 |
-| [speedrun_tr](./speedrun_tr) | 1 | 2025-10-27 |
+| [speedrun_tr](./speedrun_tr) | 2 | 2026-06-04 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 1 | 2025-11-02 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 2 | 2026-05-05 |
 
 ---
 
 ### Statistics
-- Total Maps: **36**
-- Total Demos: **49**
+- Total Maps: **37**
+- Total Demos: **52**
