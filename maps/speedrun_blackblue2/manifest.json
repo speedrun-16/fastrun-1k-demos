@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_blackblue2",
+  "updatedAt": "2026-06-19T05:59:52.853094Z",
+  "runs": [
+    {
+      "uid": "Y3IZET9GN",
+      "rid": 61911,
+      "hash": "77970af6f43ebc710b6b2660455cc9a08d1c5c3671e94db27ee18d9063381252",
+      "t": 10487,
+      "sid": "STEAM_0:0:193002961",
+      "at": "2026-06-07T13:36:59Z",
+      "zip": "00010487_STEAM_0_0_193002961_20260607-133659.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_blackblue2-20260607-#Y3IZET9GN.analysis.json",
+          "off": 83,
+          "size": 249998
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_blackblue2-20260607-#Y3IZET9GN.dem",
+          "off": 250154,
+          "size": 118189
+        },
+        {
+          "type": "replay",
+          "name": "61911.replay.xz",
+          "off": 368388,
+          "size": 32228
+        }
+      ]
+    }
+  ]
+}

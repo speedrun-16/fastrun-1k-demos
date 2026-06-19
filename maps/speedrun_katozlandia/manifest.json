@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_katozlandia",
+  "updatedAt": "2026-06-19T05:59:52.853094Z",
+  "runs": [
+    {
+      "uid": "CVW8RCHHJ",
+      "rid": 15607,
+      "hash": "7ff94bb6ed41e901cac8e52da24437b17514a1d52d25a1aed5906f9ee394badf",
+      "t": 3151,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-11-17T23:56:27Z",
+      "zip": "00003151_STEAM_0_1_29970948_20251117-235627.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_katozlandia-20251117-#CVW8RCHHJ.analysis.json",
+          "off": 84,
+          "size": 101072
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_katozlandia-20251117-#CVW8RCHHJ.dem",
+          "off": 101230,
+          "size": 63576
+        },
+        {
+          "type": "replay",
+          "name": "15607.replay.xz",
+          "off": 164851,
+          "size": 9816
+        }
+      ]
+    }
+  ]
+}

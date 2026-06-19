@@ -1,0 +1,29 @@
+{
+  "map": "speedrun_chemical_maxfps",
+  "updatedAt": "2026-06-19T05:59:52.853094Z",
+  "runs": [
+    {
+      "uid": "VJXE28W7Z",
+      "rid": 4721,
+      "hash": "819f322d8b0452053d790090ed5c7adc26e8b1a0e7ca9cf8d935689fd20d9204",
+      "t": 6403,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-09-22T10:26:51Z",
+      "zip": "00006403_STEAM_0_1_29970948_20250922-102651.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_chemical_maxfps-20250922-#VJXE28W7Z.analysis.json",
+          "off": 88,
+          "size": 14270
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_chemical_maxfps-20250922-#VJXE28W7Z.dem",
+          "off": 14436,
+          "size": 92791
+        }
+      ]
+    }
+  ]
+}

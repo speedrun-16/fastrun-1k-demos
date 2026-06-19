@@ -1,0 +1,93 @@
+{
+  "map": "deathrun_chemical",
+  "updatedAt": "2026-06-19T05:59:52.853094Z",
+  "runs": [
+    {
+      "uid": "O9KNREDKI",
+      "rid": 7569,
+      "hash": "4d8ff56ff046c7ff6910a37a7fbec36c0b575a92d2a4d10501bf6a2969914e56",
+      "t": 6298,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-10-03T15:20:14Z",
+      "zip": "00006298_STEAM_0_1_29970948_20251003-152014.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_chemical-20251003-#O9KNREDKI.analysis.json",
+          "off": 81,
+          "size": 162999
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_chemical-20251003-#O9KNREDKI.dem",
+          "off": 163151,
+          "size": 94522
+        },
+        {
+          "type": "replay",
+          "name": "7569.replay.xz",
+          "off": 257717,
+          "size": 19960
+        }
+      ]
+    },
+    {
+      "uid": "0MCQ6KVKL",
+      "rid": 7603,
+      "hash": "58ca1fe205b90d1f37695b7d51b7c5b79fb025d9fa1d9471fc279dc5fbdb5cbd",
+      "t": 6315,
+      "sid": "STEAM_0:1:87176202",
+      "at": "2025-10-03T15:28:33Z",
+      "zip": "00006315_STEAM_0_1_87176202_20251003-152833.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_chemical-20251003-#0MCQ6KVKL.analysis.json",
+          "off": 81,
+          "size": 156467
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_chemical-20251003-#0MCQ6KVKL.dem",
+          "off": 156619,
+          "size": 97823
+        },
+        {
+          "type": "replay",
+          "name": "7603.replay.xz",
+          "off": 254486,
+          "size": 18156
+        }
+      ]
+    },
+    {
+      "uid": "VGYR4YU1M",
+      "rid": 42335,
+      "hash": "f7632f801d7c27bff4c6464aeb48ca7dc45e37690bde4cd26cf9ed2dd7c5b01e",
+      "t": 6351,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-04-17T20:35:27Z",
+      "zip": "00006351_STEAM_0_1_408712_20260417-203527.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_chemical-20260417-#VGYR4YU1M.analysis.json",
+          "off": 81,
+          "size": 186232
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_chemical-20260417-#VGYR4YU1M.dem",
+          "off": 186384,
+          "size": 94961
+        },
+        {
+          "type": "replay",
+          "name": "42335.replay.xz",
+          "off": 281390,
+          "size": 19344
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_bieber",
+  "updatedAt": "2026-06-19T05:59:52.853094Z",
+  "runs": [
+    {
+      "uid": "LX4KV405Q",
+      "rid": 14320,
+      "hash": "aaccc306b15696ea531849df05a4566794d9ceab16e0a59794ff5a32579939ed",
+      "t": 10546,
+      "sid": "STEAM_0:1:447056338",
+      "at": "2025-11-11T10:28:38Z",
+      "zip": "00010546_STEAM_0_1_447056338_20251111-102838.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_bieber-20251111-#LX4KV405Q.analysis.json",
+          "off": 79,
+          "size": 244919
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_bieber-20251111-#LX4KV405Q.dem",
+          "off": 245067,
+          "size": 117108
+        },
+        {
+          "type": "replay",
+          "name": "14320.replay.xz",
+          "off": 362220,
+          "size": 30268
+        }
+      ]
+    }
+  ]
+}

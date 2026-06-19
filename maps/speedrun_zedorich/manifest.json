@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_zedorich",
+  "updatedAt": "2026-06-19T05:59:52.853094Z",
+  "runs": [
+    {
+      "uid": "85WOEDMJR",
+      "rid": 61050,
+      "hash": "ce9331e40c8280c153b3860af40bc9b1add53b76c814f24ba66593dc28ecc9bd",
+      "t": 22955,
+      "sid": "STEAM_0:0:193002961",
+      "at": "2026-06-04T20:19:19Z",
+      "zip": "00022955_STEAM_0_0_193002961_20260604-201919.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_zedorich-20260604-#85WOEDMJR.analysis.json",
+          "off": 81,
+          "size": 506701
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_zedorich-20260604-#85WOEDMJR.dem",
+          "off": 506853,
+          "size": 217732
+        },
+        {
+          "type": "replay",
+          "name": "61050.replay.xz",
+          "off": 724630,
+          "size": 62300
+        }
+      ]
+    }
+  ]
+}

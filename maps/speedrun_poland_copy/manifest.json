@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_poland_copy",
+  "updatedAt": "2026-06-19T05:59:52.853094Z",
+  "runs": [
+    {
+      "uid": "E1XWOH97S",
+      "rid": 21477,
+      "hash": "829925d7d7ce063e657b5166a357eb6ba050bc90d9d6676bb142f644a8196349",
+      "t": 9917,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-12-11T11:26:45Z",
+      "zip": "00009917_STEAM_0_1_29970948_20251211-112645.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_poland_copy-20251211-#E1XWOH97S.analysis.json",
+          "off": 84,
+          "size": 252561
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_poland_copy-20251211-#E1XWOH97S.dem",
+          "off": 252719,
+          "size": 112877
+        },
+        {
+          "type": "replay",
+          "name": "21477.replay.xz",
+          "off": 365641,
+          "size": 29788
+        }
+      ]
+    }
+  ]
+}

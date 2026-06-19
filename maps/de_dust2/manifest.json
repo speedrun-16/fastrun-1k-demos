@@ -1,0 +1,35 @@
+{
+  "map": "de_dust2",
+  "updatedAt": "2026-06-19T05:59:52.853094Z",
+  "runs": [
+    {
+      "uid": "2URJKBKKV",
+      "rid": 11118,
+      "hash": "820ebc76e36451c6307540c271e3ca09649e2b512e24ac7b1995776d053d8ef5",
+      "t": 4409,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-10-20T23:49:50Z",
+      "zip": "00004409_STEAM_0_1_29970948_20251020-234950.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "de_dust2-20251020-#2URJKBKKV.analysis.json",
+          "off": 72,
+          "size": 123292
+        },
+        {
+          "type": "dem",
+          "name": "de_dust2-20251020-#2URJKBKKV.dem",
+          "off": 123426,
+          "size": 68902
+        },
+        {
+          "type": "replay",
+          "name": "11118.replay.xz",
+          "off": 192373,
+          "size": 12836
+        }
+      ]
+    }
+  ]
+}

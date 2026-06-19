@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_hearts",
+  "updatedAt": "2026-06-19T05:59:52.853094Z",
+  "runs": [
+    {
+      "uid": "V2KWWIMTV",
+      "rid": 54188,
+      "hash": "8431b198d08793159ed8d333e23ef5959745605c70af954520dfa0a87cdfcaed",
+      "t": 9922,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-05-18T15:37:32Z",
+      "zip": "00009922_STEAM_0_1_87291981_20260518-153732.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_hearts-20260518-#V2KWWIMTV.analysis.json",
+          "off": 79,
+          "size": 249405
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_hearts-20260518-#V2KWWIMTV.dem",
+          "off": 249553,
+          "size": 102604
+        },
+        {
+          "type": "replay",
+          "name": "54188.replay.xz",
+          "off": 352202,
+          "size": 29640
+        }
+      ]
+    }
+  ]
+}

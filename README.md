@@ -1,56 +1,23 @@
-# Category Archive: 1K Run
+# 1K Run Demo Archive
 
-This repository is a structured archive for personal best demos achieved in the **1K Run** category.
+Personal best demo archive for the 1K Run category.
 
-## Map List
+## Statistics
 
-| Map Name | Demos | Last Updated |
-| :--- | :---- | :--- |
-| [de_dust](./de_dust) | 1 | 2026-06-06 |
-| [de_dust2](./de_dust2) | 1 | 2025-10-20 |
-| [deathrun_chemical](./deathrun_chemical) | 3 | 2026-04-17 |
-| [deathrun_linea](./deathrun_linea) | 1 | 2026-06-04 |
-| [deathrun_magic](./deathrun_magic) | 1 | 2025-11-04 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 3 | 2026-06-07 |
-| [speedrun_30min](./speedrun_30min) | 2 | 2026-05-16 |
-| [speedrun_bieber](./speedrun_bieber) | 1 | 2025-11-11 |
-| [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 4 | 2025-09-16 |
-| [speedrun_blackblue2](./speedrun_blackblue2) | 1 | 2026-06-07 |
-| [speedrun_calisto](./speedrun_calisto) | 1 | 2025-12-01 |
-| [speedrun_calisto2k](./speedrun_calisto2k) | 1 | 2025-12-20 |
-| [speedrun_chemical](./speedrun_chemical) | 2 | 2025-11-13 |
-| [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 1 | 2025-09-22 |
-| [speedrun_euphoria](./speedrun_euphoria) | 1 | 2026-05-19 |
-| [speedrun_evidens](./speedrun_evidens) | 1 | 2025-09-15 |
-| [speedrun_grasz_final](./speedrun_grasz_final) | 2 | 2025-12-13 |
-| [speedrun_hearts](./speedrun_hearts) | 1 | 2026-05-18 |
-| [speedrun_herb](./speedrun_herb) | 1 | 2025-09-15 |
-| [speedrun_jeans](./speedrun_jeans) | 2 | 2025-09-15 |
-| [speedrun_jeans_short](./speedrun_jeans_short) | 1 | 2026-05-17 |
-| [speedrun_katozlandia](./speedrun_katozlandia) | 1 | 2025-11-17 |
-| [speedrun_miqu](./speedrun_miqu) | 1 | 2026-05-15 |
-| [speedrun_noob](./speedrun_noob) | 2 | 2026-06-04 |
-| [speedrun_nuke](./speedrun_nuke) | 1 | 2025-10-30 |
-| [speedrun_poland](./speedrun_poland) | 1 | 2025-10-19 |
-| [speedrun_poland_copy](./speedrun_poland_copy) | 1 | 2025-12-11 |
-| [speedrun_pupsik](./speedrun_pupsik) | 1 | 2026-06-07 |
-| [speedrun_r3x_final](./speedrun_r3x_final) | 1 | 2025-10-26 |
-| [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-11 |
-| [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
-| [speedrun_record](./speedrun_record) | 1 | 2026-02-01 |
-| [speedrun_replay_return](./speedrun_replay_return) | 1 | 2025-09-15 |
-| [speedrun_runners](./speedrun_runners) | 1 | 2025-12-16 |
-| [speedrun_solitude](./speedrun_solitude) | 1 | 2025-10-22 |
-| [speedrun_sudpi](./speedrun_sudpi) | 1 | 2025-12-04 |
-| [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 2 | 2025-09-17 |
-| [speedrun_tr](./speedrun_tr) | 2 | 2026-06-04 |
-| [speedrun_tracer](./speedrun_tracer) | 1 | 2026-06-07 |
-| [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 1 | 2025-11-02 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 2 | 2026-05-05 |
-| [speedrun_zedorich](./speedrun_zedorich) | 1 | 2026-06-04 |
+| Metric | Value |
+| :-- | --: |
+| Maps | 42 |
+| Archived PBs | 57 |
+| Latest Update | 2026-06-07 |
 
----
+## Structure
 
-### Statistics
-- Total Maps: **42**
-- Total Demos: **57**
+| Path | Contents |
+| :-- | :-- |
+| `manifest.json` | Repository summary and per-map manifest pointers |
+| `maps/<map>/manifest.json` | Runs archived for one map |
+| `maps/<map>/*.zip` | Demo archive files |
+
+## Access
+
+Use `manifest.json` as the entry point. Each map manifest contains archive filenames and byte ranges for files inside each zip.
