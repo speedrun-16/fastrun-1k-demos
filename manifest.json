@@ -1,175 +1,13 @@
 {
   "category": 10,
   "categoryName": "1K Run",
-  "updatedAt": "2026-06-19T05:59:52.853094Z",
+  "updatedAt": "2026-08-17T00:00:13.042Z",
   "maps": {
-    "de_dust": {
-      "n": 1,
-      "best": 5945,
-      "at": "2026-06-06T14:57:06Z",
-      "manifest": "maps/de_dust/manifest.json"
-    },
-    "de_dust2": {
-      "n": 1,
-      "best": 4409,
-      "at": "2025-10-20T23:49:50Z",
-      "manifest": "maps/de_dust2/manifest.json"
-    },
-    "deathrun_chemical": {
-      "n": 3,
-      "best": 6298,
-      "at": "2026-04-17T20:35:27Z",
-      "manifest": "maps/deathrun_chemical/manifest.json"
-    },
-    "deathrun_linea": {
-      "n": 1,
-      "best": 12630,
-      "at": "2026-06-04T16:34:50Z",
-      "manifest": "maps/deathrun_linea/manifest.json"
-    },
-    "deathrun_magic": {
-      "n": 1,
-      "best": 15259,
-      "at": "2025-11-04T00:15:02Z",
-      "manifest": "maps/deathrun_magic/manifest.json"
-    },
-    "speedrun_1000fps_battle": {
-      "n": 3,
-      "best": 6975,
-      "at": "2026-06-07T13:23:41Z",
-      "manifest": "maps/speedrun_1000fps_battle/manifest.json"
-    },
-    "speedrun_30min": {
-      "n": 2,
-      "best": 5219,
-      "at": "2026-05-16T10:34:46Z",
-      "manifest": "maps/speedrun_30min/manifest.json"
-    },
-    "speedrun_SuNsHiNe_new": {
-      "n": 2,
-      "best": 6824,
-      "at": "2025-09-17T00:50:21Z",
-      "manifest": "maps/speedrun_SuNsHiNe_new/manifest.json"
-    },
-    "speedrun_bieber": {
-      "n": 1,
-      "best": 10546,
-      "at": "2025-11-11T10:28:38Z",
-      "manifest": "maps/speedrun_bieber/manifest.json"
-    },
-    "speedrun_bieber_maxfps": {
-      "n": 4,
-      "best": 9576,
-      "at": "2025-09-16T23:57:33Z",
-      "manifest": "maps/speedrun_bieber_maxfps/manifest.json"
-    },
-    "speedrun_blackblue2": {
-      "n": 1,
-      "best": 10487,
-      "at": "2026-06-07T13:36:59Z",
-      "manifest": "maps/speedrun_blackblue2/manifest.json"
-    },
-    "speedrun_calisto": {
-      "n": 1,
-      "best": 10508,
-      "at": "2025-12-01T12:25:55Z",
-      "manifest": "maps/speedrun_calisto/manifest.json"
-    },
     "speedrun_calisto2k": {
       "n": 1,
       "best": 14301,
       "at": "2025-12-20T11:31:23Z",
       "manifest": "maps/speedrun_calisto2k/manifest.json"
-    },
-    "speedrun_chemical": {
-      "n": 2,
-      "best": 6298,
-      "at": "2025-11-13T21:34:18Z",
-      "manifest": "maps/speedrun_chemical/manifest.json"
-    },
-    "speedrun_chemical_maxfps": {
-      "n": 1,
-      "best": 6403,
-      "at": "2025-09-22T10:26:51Z",
-      "manifest": "maps/speedrun_chemical_maxfps/manifest.json"
-    },
-    "speedrun_euphoria": {
-      "n": 1,
-      "best": 26027,
-      "at": "2026-05-19T15:19:09Z",
-      "manifest": "maps/speedrun_euphoria/manifest.json"
-    },
-    "speedrun_evidens": {
-      "n": 1,
-      "best": 8708,
-      "at": "2025-09-15T02:40:37Z",
-      "manifest": "maps/speedrun_evidens/manifest.json"
-    },
-    "speedrun_grasz_final": {
-      "n": 2,
-      "best": 11845,
-      "at": "2025-12-13T10:04:43Z",
-      "manifest": "maps/speedrun_grasz_final/manifest.json"
-    },
-    "speedrun_hearts": {
-      "n": 1,
-      "best": 9922,
-      "at": "2026-05-18T15:37:32Z",
-      "manifest": "maps/speedrun_hearts/manifest.json"
-    },
-    "speedrun_herb": {
-      "n": 1,
-      "best": 13598,
-      "at": "2025-09-15T08:48:28Z",
-      "manifest": "maps/speedrun_herb/manifest.json"
-    },
-    "speedrun_jeans": {
-      "n": 2,
-      "best": 10856,
-      "at": "2025-09-15T10:11:57Z",
-      "manifest": "maps/speedrun_jeans/manifest.json"
-    },
-    "speedrun_jeans_short": {
-      "n": 1,
-      "best": 6859,
-      "at": "2026-05-17T14:34:24Z",
-      "manifest": "maps/speedrun_jeans_short/manifest.json"
-    },
-    "speedrun_katozlandia": {
-      "n": 1,
-      "best": 3151,
-      "at": "2025-11-17T23:56:27Z",
-      "manifest": "maps/speedrun_katozlandia/manifest.json"
-    },
-    "speedrun_miqu": {
-      "n": 1,
-      "best": 19899,
-      "at": "2026-05-15T17:49:53Z",
-      "manifest": "maps/speedrun_miqu/manifest.json"
-    },
-    "speedrun_noob": {
-      "n": 2,
-      "best": 3403,
-      "at": "2026-06-04T16:12:51Z",
-      "manifest": "maps/speedrun_noob/manifest.json"
-    },
-    "speedrun_nuke": {
-      "n": 1,
-      "best": 11651,
-      "at": "2025-10-30T00:48:53Z",
-      "manifest": "maps/speedrun_nuke/manifest.json"
-    },
-    "speedrun_poland": {
-      "n": 1,
-      "best": 8961,
-      "at": "2025-10-19T18:56:33Z",
-      "manifest": "maps/speedrun_poland/manifest.json"
-    },
-    "speedrun_poland_copy": {
-      "n": 1,
-      "best": 9917,
-      "at": "2025-12-11T11:26:45Z",
-      "manifest": "maps/speedrun_poland_copy/manifest.json"
     },
     "speedrun_pupsik": {
       "n": 1,
@@ -177,71 +15,23 @@
       "at": "2026-06-07T12:24:32Z",
       "manifest": "maps/speedrun_pupsik/manifest.json"
     },
-    "speedrun_r3x_final": {
-      "n": 1,
-      "best": 11114,
-      "at": "2025-10-26T02:08:41Z",
-      "manifest": "maps/speedrun_r3x_final/manifest.json"
-    },
-    "speedrun_raduga_fix": {
-      "n": 1,
-      "best": 23060,
-      "at": "2025-11-11T10:03:42Z",
-      "manifest": "maps/speedrun_raduga_fix/manifest.json"
-    },
-    "speedrun_ramp-master_ex": {
-      "n": 1,
-      "best": 6646,
-      "at": "2026-01-29T13:37:37Z",
-      "manifest": "maps/speedrun_ramp-master_ex/manifest.json"
-    },
-    "speedrun_record": {
-      "n": 1,
-      "best": 10356,
-      "at": "2026-02-01T15:26:01Z",
-      "manifest": "maps/speedrun_record/manifest.json"
-    },
-    "speedrun_replay_return": {
-      "n": 1,
-      "best": 10028,
-      "at": "2025-09-15T12:19:35Z",
-      "manifest": "maps/speedrun_replay_return/manifest.json"
-    },
-    "speedrun_runners": {
-      "n": 1,
-      "best": 11691,
-      "at": "2025-12-16T15:19:31Z",
-      "manifest": "maps/speedrun_runners/manifest.json"
-    },
-    "speedrun_solitude": {
-      "n": 1,
-      "best": 22399,
-      "at": "2025-10-22T01:24:46Z",
-      "manifest": "maps/speedrun_solitude/manifest.json"
-    },
     "speedrun_sudpi": {
       "n": 1,
       "best": 9349,
       "at": "2025-12-04T16:45:51Z",
       "manifest": "maps/speedrun_sudpi/manifest.json"
     },
-    "speedrun_tr": {
-      "n": 2,
-      "best": 13151,
-      "at": "2026-06-04T16:40:02Z",
-      "manifest": "maps/speedrun_tr/manifest.json"
-    },
-    "speedrun_tracer": {
+    "deathrun_magic": {
       "n": 1,
-      "best": 6844,
-      "at": "2026-06-07T12:53:26Z",
-      "manifest": "maps/speedrun_tracer/manifest.json"
+      "best": 15259,
+      "at": "2025-11-04T00:15:02Z",
+      "manifest": "maps/deathrun_magic/manifest.json"
     },
-    "speedrun_triskelion_ruins_beta2": {
-      "n": 1,
-      "best": 9891,
-      "at": "2025-11-02T02:07:10Z",
-      "manifest": "maps/speedrun_triskelion_ruins_beta2/manifest.json"
+    "speedrun_bieber_maxfps": {
+      "n": 4,
+      "best": 9576,
+      "at": "2025-09-16T23:57:33Z",
+      "manifest": "maps/speedrun_bieber_maxfps/manifest.json"
     },
     "speedrun_w00dfun": {
       "n": 2,
@@ -249,11 +39,227 @@
       "at": "2026-05-05T20:33:48Z",
       "manifest": "maps/speedrun_w00dfun/manifest.json"
     },
+    "deathrun_chemical": {
+      "n": 3,
+      "best": 6298,
+      "at": "2026-04-17T20:35:27Z",
+      "manifest": "maps/deathrun_chemical/manifest.json"
+    },
+    "speedrun_solitude": {
+      "n": 1,
+      "best": 22399,
+      "at": "2025-10-22T01:24:46Z",
+      "manifest": "maps/speedrun_solitude/manifest.json"
+    },
+    "de_dust2": {
+      "n": 1,
+      "best": 4409,
+      "at": "2025-10-20T23:49:50Z",
+      "manifest": "maps/de_dust2/manifest.json"
+    },
+    "speedrun_jeans_short": {
+      "n": 1,
+      "best": 6859,
+      "at": "2026-05-17T14:34:24Z",
+      "manifest": "maps/speedrun_jeans_short/manifest.json"
+    },
+    "speedrun_blackblue2": {
+      "n": 1,
+      "best": 10487,
+      "at": "2026-06-07T13:36:59Z",
+      "manifest": "maps/speedrun_blackblue2/manifest.json"
+    },
+    "speedrun_tracer": {
+      "n": 1,
+      "best": 6844,
+      "at": "2026-06-07T12:53:26Z",
+      "manifest": "maps/speedrun_tracer/manifest.json"
+    },
+    "speedrun_raduga_fix": {
+      "n": 1,
+      "best": 23060,
+      "at": "2025-11-11T10:03:42Z",
+      "manifest": "maps/speedrun_raduga_fix/manifest.json"
+    },
+    "speedrun_herb": {
+      "n": 1,
+      "best": 13598,
+      "at": "2025-09-15T08:48:28Z",
+      "manifest": "maps/speedrun_herb/manifest.json"
+    },
+    "speedrun_grasz_final": {
+      "n": 2,
+      "best": 11845,
+      "at": "2025-12-13T10:04:43Z",
+      "manifest": "maps/speedrun_grasz_final/manifest.json"
+    },
+    "speedrun_record": {
+      "n": 1,
+      "best": 10356,
+      "at": "2026-02-01T15:26:01Z",
+      "manifest": "maps/speedrun_record/manifest.json"
+    },
+    "speedrun_katozlandia": {
+      "n": 1,
+      "best": 3151,
+      "at": "2025-11-17T23:56:27Z",
+      "manifest": "maps/speedrun_katozlandia/manifest.json"
+    },
+    "speedrun_nuke": {
+      "n": 1,
+      "best": 11651,
+      "at": "2025-10-30T00:48:53Z",
+      "manifest": "maps/speedrun_nuke/manifest.json"
+    },
+    "speedrun_1000fps_battle": {
+      "n": 3,
+      "best": 6975,
+      "at": "2026-06-07T13:23:41Z",
+      "manifest": "maps/speedrun_1000fps_battle/manifest.json"
+    },
+    "speedrun_calisto": {
+      "n": 1,
+      "best": 10508,
+      "at": "2025-12-01T12:25:55Z",
+      "manifest": "maps/speedrun_calisto/manifest.json"
+    },
+    "speedrun_miqu": {
+      "n": 1,
+      "best": 19899,
+      "at": "2026-05-15T17:49:53Z",
+      "manifest": "maps/speedrun_miqu/manifest.json"
+    },
+    "speedrun_tr": {
+      "n": 2,
+      "best": 13151,
+      "at": "2026-06-04T16:40:02Z",
+      "manifest": "maps/speedrun_tr/manifest.json"
+    },
+    "speedrun_runners": {
+      "n": 1,
+      "best": 11691,
+      "at": "2025-12-16T15:19:31Z",
+      "manifest": "maps/speedrun_runners/manifest.json"
+    },
+    "speedrun_replay_return": {
+      "n": 1,
+      "best": 10028,
+      "at": "2025-09-15T12:19:35Z",
+      "manifest": "maps/speedrun_replay_return/manifest.json"
+    },
+    "speedrun_evidens": {
+      "n": 1,
+      "best": 8708,
+      "at": "2025-09-15T02:40:37Z",
+      "manifest": "maps/speedrun_evidens/manifest.json"
+    },
+    "speedrun_jeans": {
+      "n": 2,
+      "best": 10856,
+      "at": "2025-09-15T10:11:57Z",
+      "manifest": "maps/speedrun_jeans/manifest.json"
+    },
+    "speedrun_SuNsHiNe_new": {
+      "n": 2,
+      "best": 6824,
+      "at": "2025-09-17T00:50:21Z",
+      "manifest": "maps/speedrun_SuNsHiNe_new/manifest.json"
+    },
+    "speedrun_hearts": {
+      "n": 1,
+      "best": 9922,
+      "at": "2026-05-18T15:37:32Z",
+      "manifest": "maps/speedrun_hearts/manifest.json"
+    },
+    "speedrun_triskelion_ruins_beta2": {
+      "n": 1,
+      "best": 9891,
+      "at": "2025-11-02T02:07:10Z",
+      "manifest": "maps/speedrun_triskelion_ruins_beta2/manifest.json"
+    },
+    "speedrun_30min": {
+      "n": 2,
+      "best": 5219,
+      "at": "2026-05-16T10:34:46Z",
+      "manifest": "maps/speedrun_30min/manifest.json"
+    },
+    "de_dust": {
+      "n": 1,
+      "best": 5945,
+      "at": "2026-06-06T14:57:06Z",
+      "manifest": "maps/de_dust/manifest.json"
+    },
+    "speedrun_siano": {
+      "n": 1,
+      "best": 13746,
+      "at": "2026-08-16T18:32:34.000Z",
+      "manifest": "maps/speedrun_siano/manifest.json"
+    },
+    "speedrun_r3x_final": {
+      "n": 1,
+      "best": 11114,
+      "at": "2025-10-26T02:08:41Z",
+      "manifest": "maps/speedrun_r3x_final/manifest.json"
+    },
+    "speedrun_ramp-master_ex": {
+      "n": 1,
+      "best": 6646,
+      "at": "2026-01-29T13:37:37Z",
+      "manifest": "maps/speedrun_ramp-master_ex/manifest.json"
+    },
     "speedrun_zedorich": {
       "n": 1,
       "best": 22955,
       "at": "2026-06-04T20:19:19Z",
       "manifest": "maps/speedrun_zedorich/manifest.json"
+    },
+    "speedrun_chemical_maxfps": {
+      "n": 1,
+      "best": 6403,
+      "at": "2025-09-22T10:26:51Z",
+      "manifest": "maps/speedrun_chemical_maxfps/manifest.json"
+    },
+    "speedrun_chemical": {
+      "n": 2,
+      "best": 6298,
+      "at": "2025-11-13T21:34:18Z",
+      "manifest": "maps/speedrun_chemical/manifest.json"
+    },
+    "speedrun_bieber": {
+      "n": 1,
+      "best": 10546,
+      "at": "2025-11-11T10:28:38Z",
+      "manifest": "maps/speedrun_bieber/manifest.json"
+    },
+    "speedrun_poland_copy": {
+      "n": 1,
+      "best": 9917,
+      "at": "2025-12-11T11:26:45Z",
+      "manifest": "maps/speedrun_poland_copy/manifest.json"
+    },
+    "speedrun_euphoria": {
+      "n": 1,
+      "best": 26027,
+      "at": "2026-05-19T15:19:09Z",
+      "manifest": "maps/speedrun_euphoria/manifest.json"
+    },
+    "speedrun_poland": {
+      "n": 1,
+      "best": 8961,
+      "at": "2025-10-19T18:56:33Z",
+      "manifest": "maps/speedrun_poland/manifest.json"
+    },
+    "deathrun_linea": {
+      "n": 1,
+      "best": 12630,
+      "at": "2026-06-04T16:34:50Z",
+      "manifest": "maps/deathrun_linea/manifest.json"
+    },
+    "speedrun_noob": {
+      "n": 2,
+      "best": 3403,
+      "at": "2026-06-04T16:12:51Z",
+      "manifest": "maps/speedrun_noob/manifest.json"
     }
   }
 }
