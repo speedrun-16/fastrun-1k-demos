@@ -6,9 +6,9 @@ Map-level archive directory for the 1K Run category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 43 |
-| Archived PBs | 58 |
-| Latest Update | 2026-08-16 |
+| Maps | 44 |
+| Archived PBs | 59 |
+| Latest Update | 2026-08-30 |
 
 ## Structure
 

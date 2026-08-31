@@ -1,7 +1,7 @@
 {
   "category": 10,
   "categoryName": "1K Run",
-  "updatedAt": "2026-08-17T00:00:13.042Z",
+  "updatedAt": "2026-08-31T00:00:03.760Z",
   "maps": {
     "speedrun_calisto2k": {
       "n": 1,
@@ -164,6 +164,12 @@
       "best": 6824,
       "at": "2025-09-17T00:50:21Z",
       "manifest": "maps/speedrun_SuNsHiNe_new/manifest.json"
+    },
+    "speedrun_sqn": {
+      "n": 1,
+      "best": 21927,
+      "at": "2026-08-30T23:54:36.000Z",
+      "manifest": "maps/speedrun_sqn/manifest.json"
     },
     "speedrun_hearts": {
       "n": 1,
