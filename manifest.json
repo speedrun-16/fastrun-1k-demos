@@ -1,7 +1,7 @@
 {
   "category": 10,
   "categoryName": "1K Run",
-  "updatedAt": "2026-08-31T00:00:03.760Z",
+  "updatedAt": "2026-09-20T18:00:18.305Z",
   "maps": {
     "speedrun_calisto2k": {
       "n": 1,
@@ -112,9 +112,9 @@
       "manifest": "maps/speedrun_nuke/manifest.json"
     },
     "speedrun_1000fps_battle": {
-      "n": 3,
+      "n": 4,
       "best": 6975,
-      "at": "2026-06-07T13:23:41Z",
+      "at": "2026-09-20T17:53:04.000Z",
       "manifest": "maps/speedrun_1000fps_battle/manifest.json"
     },
     "speedrun_calisto": {

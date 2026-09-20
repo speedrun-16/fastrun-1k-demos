@@ -7,8 +7,8 @@ Personal best demo archive for the 1K Run category.
 | Metric | Value |
 | :-- | --: |
 | Maps | 44 |
-| Archived PBs | 59 |
-| Latest Update | 2026-08-30 |
+| Archived PBs | 60 |
+| Latest Update | 2026-09-20 |
 
 ## Structure
 
