@@ -1,7 +1,7 @@
 {
   "category": 10,
   "categoryName": "1K Run",
-  "updatedAt": "2026-09-20T18:00:18.305Z",
+  "updatedAt": "2026-10-16T00:00:00.697Z",
   "maps": {
     "speedrun_calisto2k": {
       "n": 1,
@@ -224,6 +224,12 @@
       "best": 6403,
       "at": "2025-09-22T10:26:51Z",
       "manifest": "maps/speedrun_chemical_maxfps/manifest.json"
+    },
+    "speedrun_qu_dust": {
+      "n": 1,
+      "best": 18143,
+      "at": "2026-10-15T21:30:54.000Z",
+      "manifest": "maps/speedrun_qu_dust/manifest.json"
     },
     "speedrun_chemical": {
       "n": 2,
